@@ -69,5 +69,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=maipochettino&background=0b101c&border=1f2c47&stroke=1f2c47&ring=f8b4c8&fire=ff8fb3&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f8b4c8&sideLabels=f8b4c8&dates=c9c9d6&border_radius=12" alt="Racha de contribuciones">
 </p>
+<div align="center"> <sub>♡ gracias por pasar por mi perfil ♡</sub>
 
 ---
